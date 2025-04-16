@@ -16,7 +16,10 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 - **Majutus**: 
   - Peamiselt kämpingud ja telkimine: 🏕️ ~15 EUR/öö
   - **15 päeva kokku**: ~225 EUR
-- **Kogukulu ühe inimese kohta**: 💰 ~1280 EUR (ilma lisakuludeta, nt vaatamisväärsused või suveniirid)
+- **Laevad**:
+  - tln helsingi - 2 inimest auto 100-130eur
+  - stockholm tln - 2 inimest auto kajut 250-500 eur(oleneb kuupäevast
+- **Kogukulu ühe inimese kohta**: 💰 ~1000-1400 EUR ( saab odavamalt kui küte pooleks, rohkem telkimist, odavamad toidud) aga..(ilma lisakuludeta, nt vaatamisväärsused või suveniirid)
 
 ---
 
