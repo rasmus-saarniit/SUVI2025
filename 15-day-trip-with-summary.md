@@ -16,7 +16,10 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 - **Majutus**: 
   - Peamiselt kämpingud ja telkimine: 🏕️ ~15 EUR/öö
   - **15 päeva kokku**: ~225 EUR
-- **Kogukulu ühe inimese kohta**: 💰 ~1280 EUR (ilma lisakuludeta, nt vaatamisväärsused või suveniirid)
+- **Laevapiletid**:
+    - Tallinn - Helsingi - UMBES 100 eur Auto+2 inimest
+    - Stockholm - Tallinn - umbes 250-500 eur (Auto +2 inimest +kajut)
+- **Kogukulu ühe inimese kohta**: 💰 ~1400 EUR (ilma lisakuludeta, nt vaatamisväärsused või suveniirid)
 
 ---
 
