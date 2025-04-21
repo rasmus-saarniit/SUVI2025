@@ -134,7 +134,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 13.-14. Päev: Karlstad - Stockholm (~300 km) (31.07-01.08, Neljapäev-Reede)
+### 13. Päev: Karlstad - Stockholm (~300 km) (31.07, Neljapäev)
 - **Marsruut**: Rootsi pealinna suunas.
 - **Tegevused**:
   - Saabumine Stockholmi ja vaba õhtu vanalinnas (Gamla Stan). 🏰
@@ -143,11 +143,22 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 15. Päev: Stockholm - Tallinn (02.08, Laupäev)
+### 14. Päev: Stockholm - Kapellskär (~90 km) (01.08, Reede)
+- **Marsruut**: Lühike sõit Stockholmist Kapellskäri sadamasse.
 - **Tegevused**:
-  - 🛳️ Praamisõit tagasi Eestisse.
+  - Hommikupoolik Stockholmis: külastage Skanseni vabaõhumuuseumi või Fotografiska muuseumi.
+  - Pärastlõunal sõit Kapellskäri.
+  - Õhtul: 🛳️ Laeva peale minek Kapellskäris (väljumine kell 21:00).
+- **Majutus**: Laevas kajutis.
+
+---
+
+### 15. Päev: Paldiski - Tallinn (~50 km) (02.08, Laupäev)
+- **Tegevused**:
+  - Saabumine Paldiski sadamasse kell 08:00.
+  - Hommikune sõit Tallinnasse (~1 tund).
   - Reisi lõpetamine ja mälestuste jagamine kaaslastega.
-- **Lõpetamine**: Saabumine Tallinnasse kell 20:00.
+- **Lõpetamine**: Saabumine Tallinnasse.
 
 ---
 
