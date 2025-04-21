@@ -17,15 +17,15 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
   - Peamiselt kämpingud ja telkimine: 🏕️ ~15 EUR/öö
   - **15 päeva kokku**: ~225 EUR
 - **Laevad**:
-  - tln helsingi - 2 inimest auto 100-130eur
-  - stockholm tln - 2 inimest auto kajut 250-500 eur(oleneb kuupäevast
+  - tln helsingi - 2 inimest auto 100eur
+  - stockholm tln - 2 inimest auto kajut 250-500 eur(oleneb kuupäevast ja laevafirmast)
 - **Kogukulu ühe inimese kohta**: 💰 ~1000-1400 EUR ( saab odavamalt kui küte pooleks, rohkem telkimist, odavamad toidud) aga..(ilma lisakuludeta, nt vaatamisväärsused või suveniirid)
 
 ---
 
 ## 🗺️ **Marsruut ja Päevaplaan**
 
-### 1. Päev: Tallinn - Helsingi - 🚗 Põhja poole
+### 1. Päev: Tallinn - Helsingi - 🚗 Põhja poole (19.07, Laupäev)
 - **Hommik**: Praam Tallinnast Helsingisse (2-3 tundi). Saabumine Helsingisse kell 11.
 - **Sõit põhja poole**: Alustame kohe Helsingist sõitu, läbides vähemalt 500 km.
 - **Tegevused**:
@@ -35,7 +35,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 2. Päev: 🚗 Soome põhjaosa – Rovaniemi (~700 km)
+### 2. Päev: 🚗 Soome põhjaosa – Rovaniemi (~700 km) (20.07, Pühapäev)
 - **Marsruut**: Pikem sõidupäev Rovaniemi suunas.
 - **Tegevused**:
   - Polaarjoone ületamine Rovaniemis. 📍
@@ -45,7 +45,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 3. Päev: Rovaniemi - Tromsø, Norra (~580 km)
+### 3. Päev: Rovaniemi - Tromsø, Norra (~580 km) (21.07, Esmaspäev)
 - **Marsruut**: Läbi Soome Lapimaa Norra piiri suunas.
 - **Tegevused**:
   - Põhjapõtrade vaatlemine tundras. 🦌
@@ -54,7 +54,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 4. Päev: Tromsø - Andøya saar (~300 km)
+### 4. Päev: Tromsø - Andøya saar (~300 km) (22.07, Teisipäev)
 - **Marsruut**: Looduskaunis sõit läbi fjordide ja rannikuala.
 - **Tegevused**:
   - 🐋 Vaalasafari Andenesist (hooajati saadaval).
@@ -63,7 +63,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 5. Päev: Andøya - Ramberg, Lofoteni saared (~210 km)
+### 5. Päev: Andøya - Ramberg, Lofoteni saared (~210 km) (23.07, Kolmapäev)
 - **Marsruut**: Jätkame sõitu mööda maalilisi rannikuteid Lofoteni saartele.
 - **Tegevused**:
   - 🥾 Matk Reinebringeni vaateplatvormile (448 m kõrgus merepinnast).
@@ -72,7 +72,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 6. Päev: Ramberg - Steigen (~250 km)
+### 6. Päev: Ramberg - Steigen (~250 km) (24.07, Neljapäev)
 - **Marsruut**: Sõit läbi Lofoteni ja Väike-Lofoteni piirkonna.
 - **Tegevused**:
   - 🌄 Kohalikud matkarajad Steigeni piirkonnas.
@@ -81,7 +81,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 7. Päev: Steigen - Tjøtta (~400 km)
+### 7. Päev: Steigen - Tjøtta (~400 km) (25.07, Reede)
 - **Marsruut**: Pikem teekond lõuna poole.
 - **Tegevused**:
   - 🚢 Fjordide avastamine teel.
@@ -90,7 +90,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 8. Päev: Tjøtta - Stryn (~450 km)
+### 8. Päev: Tjøtta - Stryn (~450 km) (26.07, Laupäev)
 - **Marsruut**: Sõit läbi Norra mägede ja fjordide.
 - **Tegevused**:
   - 🚤 Geirangeri fjordi kruiis (valikuline).
@@ -99,7 +99,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 9. Päev: Stryn - Aurland (~200 km)
+### 9. Päev: Stryn - Aurland (~200 km) (27.07, Pühapäev)
 - **Marsruut**: Fjordide ja mägiteede kaudu Aurlandi piirkonda.
 - **Tegevused**:
   - 🏞️ Stegasteini vaateplatvorm – unustamatud vaated fjordidele.
@@ -108,7 +108,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 10. Päev: Aurland - Trolltunga - Aurland (~200 km edasi-tagasi)
+### 10. Päev: Aurland - Trolltunga - Aurland (~200 km edasi-tagasi) (28.07, Esmaspäev)
 - **Marsruut**: Päevareis Trolltungale.
 - **Tegevused**:
   - 🥾 Trolltunga matk (10-12 tundi, väljakutsuv rada, 1100 m kõrgusel).
@@ -117,7 +117,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 11. Päev: Aurland - Oslo (~300 km)
+### 11. Päev: Aurland - Oslo (~300 km) (29.07, Teisipäev)
 - **Marsruut**: Sõit läbi Norra keskosa pealinna Oslo suunas.
 - **Tegevused**:
   - Oslo ooperimaja külastus. 🎭
@@ -126,7 +126,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 12. Päev: Oslo - Karlstad, Rootsi (~200 km)
+### 12. Päev: Oslo - Karlstad, Rootsi (~200 km) (30.07, Kolmapäev)
 - **Marsruut**: Teekond Norra pealinnast Rootsi.
 - **Tegevused**:
   - Karlstadi järveäärne jalutuskäik ja rahulik õhtu. 🌅
@@ -134,7 +134,7 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 13.-14. Päev: Karlstad - Stockholm (~300 km)
+### 13.-14. Päev: Karlstad - Stockholm (~300 km) (31.07-01.08, Neljapäev-Reede)
 - **Marsruut**: Rootsi pealinna suunas.
 - **Tegevused**:
   - Saabumine Stockholmi ja vaba õhtu vanalinnas (Gamla Stan). 🏰
@@ -143,11 +143,11 @@ Tere tulemast 15-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 
 ---
 
-### 15. Päev: Stockholm - Tallinn
+### 15. Päev: Stockholm - Tallinn (02.08, Laupäev)
 - **Tegevused**:
   - 🛳️ Praamisõit tagasi Eestisse.
   - Reisi lõpetamine ja mälestuste jagamine kaaslastega.
-- **Lõpetamine**: Saabumine Tallinnasse.
+- **Lõpetamine**: Saabumine Tallinnasse kell 20:00.
 
 ---
 
