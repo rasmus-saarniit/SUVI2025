@@ -14,12 +14,11 @@ Tere tulemast 19-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
   - Supermarketist ostes: 🥗 ~25 EUR/päevas
   - **19 päeva kokku**: ~475 EUR
 - **Majutus**: 
-  - Peamiselt kämpingud ja telkimine: 🏕️ ~15 EUR/öö
-  - **19 päeva kokku**: ~285 EUR
+  - Peamiselt autos
 - **Laevad**:
   - tln helsingi - 2 inimest auto 100eur
   - stockholm tln - 2 inimest auto kajut 250-500 eur(oleneb kuupäevast ja laevafirmast)
-- **Kogukulu ühe inimese kohta**: 💰 ~1300-1700 EUR ( saab odavamalt kui küte pooleks, rohkem telkimist, odavamad toidud) aga..(ilma lisakuludeta, nt vaatamisväärsused või suveniirid)
+
 
 ---
 
@@ -156,15 +155,17 @@ Tere tulemast 19-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
 ### 14. Päev: Stryn - Aurland (~200 km) (26.07, Laupäev)
 - **Marsruut**: Fjordide ja mägiteede kaudu Aurlandi piirkonda.
 - **Tegevused**:
+  - GRIMSETELVI FOSSEFALL!!! ( PIC)
   - 🏞️ Stegasteini vaateplatvorm – unustamatud vaated fjordidele.
   - Aurlandi fjordi avastamine jalutuskäikudel.
 - **Majutus**: Aurlandi kämping.
-
+   GRIMSETELVI FOSSEFALL!!! ( PIC)
 ---
 
 ### 15. Päev: Aurland - Trolltunga - Aurland (~200 km edasi-tagasi) (27.07, Pühapäev)
 - **Marsruut**: Päevareis Trolltungale.
 - **Tegevused**:
+  - GRIMSETELVI FOSSEFALL!!! ( PIC)
   - 🥾 Trolltunga matk (10-12 tundi, väljakutsuv rada, 1100 m kõrgusel).
   - Vaated Hardangeri fjordile. 🌄
 - **Majutus**: Sama kämping Aurlandis.
