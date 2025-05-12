@@ -55,7 +55,8 @@ Tere tulemast 19-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
   - Alta kaljujoonised (UNESCO).
   - Loodusvaated ja fjordid.
 - **Majutus**: Alta kämping.
-
+* S leiud*
+  Alta ja Tromsø vahele jääb Lyngenfjord region. Tegevused nagu bungee jump: https://www.visit-lyngenfjord.com/activities/bungeejumping-lyngenfjord  pm 100euri. Samas on ka Gorsabrua bridge.
 ---
 
 
@@ -74,7 +75,10 @@ Tere tulemast 19-päevasele autoreisile, mis viib sind läbi Skandinaavia kaunim
   - 🐋 Vaalasafari Andenesist (hooajati saadaval).
   - Bleiki rand – ideaalne koht piknikuks ja jalutuskäiguks. 🏖️
 - **Majutus**: Andøy Camping.
-
+*S leiud*
+- Tromsø ja Andøya vahele jääb selline koht nagu Narvik. Seal on Polar Park https://www.visitnarvik.com/polar-park 
+Samuti vaateplatvorm Tungeneset: https://www.nasjonaleturistveger.no/en/routes/senja/tungeneset/ (The walkway at Tungeneset viewpoint is closed, due to damages caused by heavy storms. It will probably stay closed until June 2025.)
+- Måtind (408 masl) in Vesterålen 3.8 km one way and is classified at a medium difficulty level. (Måtinden in Andøy is one of Vesterålen’s most frequently visited mountains, and for good reasons. From the summit you will be enchanted by views of dramatic mountain peaks and white sandy beaches, among others the hidden beach of Høyvika. ) : https://visitvesteralen.com/en/hikers-paradise/matind 
 ---
 
 
