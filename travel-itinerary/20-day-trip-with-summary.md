@@ -250,6 +250,7 @@ https://www.visitnorway.com/listings/hike-to-reinebringen-(484-m-o-s-)/225283/
 - **Tegevused**:
   - 🌄 Kohalikud matkarajad Steigeni piirkonnas.
   - Fjordivaated ja rahulik loodus. 🌿
+  - Praam. https://www.torghatten.no/en
 - **Majutus - TASUTA automajas magamine**:
 
 **📍 Steigen tasuta kohad:**
@@ -297,7 +298,9 @@ https://www.visitnorway.com/listings/hike-to-reinebringen-(484-m-o-s-)/225283/
    - Saar ühenduse kohal
    - Kalamehe parkla, tasuta
    - Ilus vaade üle fjordi
- -  **S leiud** Tjøtta ja Stryn (palju lähemale) vahel on vaateplatvorm- Trollstigen in Northwest
+ -  **S leiud**
+ -  The Mardalsfossen Waterfall: https://www.visitnorway.com/places-to-go/fjord-norway/northwest/ 
+ -  Tjøtta ja Stryn (palju lähemale) vahel on vaateplatvorm- Trollstigen in Northwest: https://www.visitnorway.com/places-to-go/fjord-norway/northwest/
    ! Bognes - Skarberget/E6  praami sõit
 
 ---
@@ -326,9 +329,10 @@ https://www.visitnorway.com/listings/hike-to-reinebringen-(484-m-o-s-)/225283/
    - Metsas varjatud parkla
    - Jäätikus muutused lähedal
 **S leiud**
-  Spectacular attractions meet stunning views! Loen Skylift, in the heart of Fjord Norway, takes you from the fjord to the top of Mount Hoven in just 5 minutes. Explore the mountain on foot in summer.  https://www.visitnorway.com/places-to-go/fjord-norway/stryn/
+- Via Ferrata Loen is a spectacular climbing trail that is secured with a wire all the way, and takes you up from the fjord to the top of the mountain Hoven at 1011 m. All the way with a magnificent view of the fjord, Lodalen , Oldedalen, majestic Skåla and the mountains towards Jostedalsbreen. : https://en.loenskylift.no/viaferrataloen 
+  - Spectacular attractions meet stunning views! Loen Skylift, in the heart of Fjord Norway, takes you from the fjord to the top of Mount Hoven in just 5 minutes. Explore the mountain on foot in summer.  https://www.visitnorway.com/places-to-go/fjord-norway/stryn/
   - Stryn ja Aurland vahele jääb kosk! https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/listings-hardanger-fjord/steinsdalsfossen-waterfall/1260/
-  - Ja veel üks kosk: HARDANGERFJORD https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/ 
+  - Ja veel üks kosk: HARDANGERFJORD -PALUN https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/ 
 ---
 
 ### 10. Päev: Stryn - Aurland (~200 km) (22.07, Teisipäev)
@@ -364,6 +368,7 @@ https://www.visitnorway.com/listings/hike-to-reinebringen-(484-m-o-s-)/225283/
   - GRIMSETELVI FOSSEFALL!!! vaatamine (foto!)
   - 🥾 Trolltunga matk (10-12 tundi, väljakutsuv rada, 1100 m kõrgusel).
   - Vaated Hardangeri fjordile. 🌄
+    https://www.trolltunga-active.com/?utm_source=google&utm_meduim=cpc&utm_campaign=19470288134&dynamic_id=&gad_source=1&gad_campaignid=19470288134&gbraid=0AAAAApMt4IAbSxaNHQ0IClo7bRzvdtJPI&gclid=CjwKCAjwsZPDBhBWEiwADuO6y8UeFDK0TbtmwGFRj0SRJK-b9VIR9Qqrpy79sHSjKCBYQ7dQjnEVbhoCciUQAvD_BwE 
 - **Majutus - TASUTA automajas magamine**:
 
 **📍 Aurland (Trolltunga baas) tasuta kohad:**
@@ -377,6 +382,7 @@ https://www.visitnorway.com/listings/hike-to-reinebringen-(484-m-o-s-)/225283/
 
 ### 12. Päev: Aurland - Jotunheimi rahvuspark (~150 km) (24.07, Neljapäev)
 - **Marsruut**: Sõit Jotunheimi rahvusparki (Norra mägede süda).
+  https://jotunheimen.com/ 
 - **Tegevused**:
   - Saabumine Jotunheimi - Norra kõrgeimad mäed 🏔️
   - Galdhøpiggen piirkonna vaatamine (Norra kõrgeim tipp 2469m)
@@ -404,7 +410,7 @@ https://www.visitnorway.com/listings/hike-to-reinebringen-(484-m-o-s-)/225283/
 
 ### 13. Päev: Jotunheimi rahvuspark - täispäev matkamas (25.07, Reede)
 - **Tegevused**:
-  - 🥾 Besseggen ridge matk - üks Norra kuulsamaid matkaradu (16 km)
+  - 🥾 Besseggen ridge matk - üks Norra kuulsamaid matkaradu (16 km) - https://www.visitnorway.com/places-to-go/eastern-norway/the-jotunheimen-mountains/hiking-the-besseggen-ridge/ 
   - Gjende järve ja Bessvatnet järve vaated
   - Alpilised maastikud ja jääjärved
 - **Majutus - TASUTA automajas magamine**:
